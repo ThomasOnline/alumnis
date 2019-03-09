@@ -1,0 +1,42 @@
+---
+title: Thomas1
+
+# First name or full name
+name: Thomas Chanterel
+date: 2019-03-09 07:20
+
+objective: Exercer mon métier dans le domaine qui me passionne, le développement.
+short_description: J'aime l'eau, je met du fromage rapé sur tout mes plats. Je suis passionné par l'informatique depuis mon plus jeune âge.
+
+template: students
+description:
+    J'aime passer du temps avec ma famille et mes amis, rencontrer de nouvelles personnes. Je passe mon temps à travailler,
+    rire, manger et dormir. Travailler en riant, manger en riant, dormir en riant, rire en riant.
+    Vous voyez le gars qui est tout seul dans son bureau et qui rigole devant son pc c'est moi.
+    j'ai déjà eu plusieurs reconversions aprés avoir étudier/travailler dans des domaines qui ne me plaisait pas tant
+    que ça finalement notamment le droit, le commerce et la finance. 
+    Après tout ce parcours tumultueux j'ai décidé de reprendre le domaine qui m'as toujours passionné, le développement.
+
+image: thomas1.jpg
+
+public: False
+
+  - title: Jeune homme de 22 ans, plein d'energie
+    description: Je suis créatif, dynamique, motivé, polyvalent, passionné et rigoureux. Je suis apte à travailler en groupe ou de manière autonome.
+    # Create a new repository for your images. Name it the same as your nickname and profile picture.
+    # Image must be here: content/students/yourrepo/project1.png
+    image: ratus/projet_1.png
+    link: https://www.linkedin.com/in/thomas-chanterel/
+    
+    finished: true
+  - title: Intégrez la communauté !
+    description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
+    image: ratus/projet_2.png
+    link: https://openclassrooms-student-center.github.io/presentation/students/ratus.html
+    finished: true
+  - title: Aidez MacGyver à sortir !
+    description: Création d’un jeu développé en Python et utilisant PyGame.
+    image: ratus/projet_3.png
+    link: https://www.github.com
+    finished: false
+---
